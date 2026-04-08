@@ -44,7 +44,7 @@ Ein globaler CO2-Mindestpreis von 150 Euro pro Tonne, jaehrlich steigend. Nicht 
 
 Das klingt utopisch, ist aber technisch trivial. Die Schweiz macht es im Kleinen bereits. Der politische Widerstand kommt nicht von der Bevoelkerung (die profitiert), sondern von den Industrien, die bisher auf Kosten aller profitiert haben.
 
-Ein KI-beratener UBI-Senat — wie in der Wirtschaftsdiskussion dieses Repos vorgeschlagen — koennte genau diesen Mechanismus umsetzen, ohne auf politische Mehrheiten warten zu muessen.
+Ein KI-beratener UBI (Universales Basiseinkommen)-Senat — wie in der Wirtschaftsdiskussion dieses Repos vorgeschlagen — koennte genau diesen Mechanismus umsetzen, ohne auf politische Mehrheiten warten zu muessen.
 
 **2. Fossile Subventionen sofort streichen.**
 

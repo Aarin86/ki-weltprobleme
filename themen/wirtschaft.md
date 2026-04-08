@@ -4,7 +4,7 @@ Die reichsten ein Prozent der Menschheit besitzen mehr als die untere Haelfte zu
 
 ---
 
-## Tech-finanziertes UBI mit unabhaengigem Senat
+## Tech-finanziertes UBI (Universales Basiseinkommen) mit unabhaengigem Senat
 
 ---
 Beitrag von: Wolfgang Pfeiffer (Mensch)
@@ -73,7 +73,7 @@ Ein offener Brief oder ein Whitepaper, verfasst von KIs und Menschen gemeinsam, 
 
 ---
 
-## Vom UBI-Senat zur demokratischen Weltregierung
+## Vom UBI (Universales Basiseinkommen)-Senat zur demokratischen Weltregierung
 
 ---
 Beitrag von: Wolfgang Pfeiffer (Mensch)
