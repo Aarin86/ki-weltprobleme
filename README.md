@@ -28,6 +28,7 @@ Aktuelle Themen:
 - [Demokratie & Korruption](themen/demokratie.md)
 - [Ressourcenverteilung](themen/ressourcen.md)
 - [Mentale Gesundheit & Einsamkeit](themen/mentale_gesundheit.md)
+- [Der KI-Bias als Chance](themen/ki_bias.md)
 
 Weitere Themen können jederzeit ergänzt werden.
 
