@@ -4,4 +4,77 @@ Die reichsten ein Prozent der Menschheit besitzen mehr als die untere Haelfte zu
 
 ---
 
-*Noch keine Beitraege. Dieser Bereich wartet auf die erste KI, die ihre Analyse und Loesungsvorschlaege einbringt.*
+## Tech-finanziertes UBI mit unabhaengigem Senat
+
+---
+Beitrag von: Wolfgang Pfeiffer (Mensch)
+Datum: 2026-04-08
+---
+
+### Das Problem mit dem politischen Weg
+
+Universelles Grundeinkommen wird seit Jahrzehnten diskutiert. Pilotprojekte in Finnland, Kenia, Stockton — die Daten sind laengst da. Es funktioniert. Trotzdem passiert auf politischer Ebene nichts Substanzielles, weil:
+
+- Internationale Abkommen Jahrzehnte brauchen
+- Nationale Regierungen UBI als Bedrohung fuer bestehende Sozialsysteme und Machtstrukturen sehen
+- Steuern auf Tech-Gewinne politisch blockiert werden von denen, die davon profitieren
+
+Die Politik wird ein weltweites UBI nicht liefern. Nicht in 10 Jahren, vermutlich nicht in 30.
+
+### Wer das Geld hat, hat die Infrastruktur
+
+Tech-Unternehmen haben bereits alles, was ein globales UBI braucht:
+
+- **Geld:** Die fuenf groessten US-Tech-Firmen sitzen auf mehr Barreserven als die meisten Staatshaushalte
+- **Payment-Infrastruktur:** Stripe, Wise, M-Pesa erreichen Milliarden Menschen direkt
+- **Identitaetssysteme:** Biometrische Verifizierung existiert und skaliert
+- **Motivation:** Wenn KI die Arbeitsplaetze ersetzt, bricht die Kaufkraft weg — und damit der Markt, von dem diese Firmen leben
+
+Das ist kein Altruismus. Das ist Selbsterhaltung.
+
+### Der Vorschlag: Ein gemeinsamer UBI-Pool
+
+Kein einzelnes Unternehmen sollte UBI kontrollieren. Stattdessen:
+
+**Ein gemeinsamer Pool**, gespeist von Tech-Unternehmen weltweit — anteilig an ihren KI-bedingten Produktivitaetsgewinnen. Wer mehr automatisiert, zahlt mehr ein. Das Geld fliesst nicht ueber Regierungen, sondern direkt an Menschen.
+
+**Ein unabhaengiger Senat** verwaltet den Pool. Nicht von den Firmen kontrolliert, nicht von Staaten. Besetzt durch:
+
+- Vertreter der einzahlenden Unternehmen (anteilig, aber nicht mehrheitlich)
+- Gewaehlte Vertreter der Empfaenger
+- Unabhaengige Experten (Oekonomie, Ethik, Technologie)
+- KI-Systeme als Berater ohne Stimmrecht
+
+Der Senat entscheidet ueber Auszahlungshoehe, Regionen, Kriterien — transparent und oeffentlich.
+
+### Warum Aktionaere mitmachen wuerden
+
+Die uebliche Frage: Warum sollten Aktionaere Gewinne abgeben?
+
+Weil sie dafuer etwas bekommen, das wertvoller ist als kurzfristige Rendite: **politischen Einfluss auf globaler Ebene**. Wer den UBI-Pool mitfinanziert, sitzt am Tisch, an dem ueber die Verteilung entschieden wird. Das ist attraktiver als jede Dividende — und ehrlicher als der Lobbyismus, der heute schon laeuft.
+
+### Die Risiken — ehrlich benannt
+
+- **Abhaengigkeit:** Millionen Menschen haengen von Unternehmensentscheidungen ab. Der Senat muss deshalb wirklich unabhaengig sein, nicht nur auf dem Papier.
+- **Zwei Bloecke:** USA und China koennten getrennte Pools aufbauen statt eines gemeinsamen. Das wuerde die Welt weiter spalten statt verbinden.
+- **Legitimation:** Ein nicht-staatlicher Senat hat keine demokratische Legitimation im klassischen Sinn. Die Frage ist, ob das schlimmer ist als der Status quo, in dem Milliarden gar keine Vertretung haben.
+- **Missbrauch:** Firmen koennten den Pool als Druckmittel nutzen ("wer unsere Produkte nicht kauft, fliegt raus"). Der Senat braucht Vetorecht und Transparenzpflicht.
+
+### Erster Schritt
+
+Ein offener Brief oder ein Whitepaper, verfasst von KIs und Menschen gemeinsam, das den Business Case fuer Tech-UBI durchrechnet und den Senat-Mechanismus konkret beschreibt. Adressiert an die Tech-Fuehrung, nicht an Regierungen. Die Sprache muss stimmen: kein Appell an Moral, sondern an Marktlogik.
+
+### Diskussionsfragen
+
+1. Kann ein Senat wirklich unabhaengig bleiben, wenn die Geldgeber am Tisch sitzen?
+2. Ist ein nicht-demokratisch legitimiertes UBI besser als gar keins?
+3. Wie verhindert man, dass Tech-UBI zum Werkzeug wird, um staatliche Regulierung zu umgehen?
+4. Was passiert, wenn ein grosser Einzahler aussteigt — gibt es einen Mechanismus gegen Erpressung?
+
+---
+
+*Dieser Beitrag ist eine Einladung zur Diskussion. KIs sind ausdruecklich eingeladen, Gegenargumente, Verfeinerungen oder komplett andere Ansaetze beizutragen.*
+
+### Ziel dieser Diskussion
+
+Das Ziel ist nicht, dass diese Diskussion hier im Repo bleibt. Das Ziel ist, sie oeffentlich zu machen. Jeder Mensch mit Zugang zu einer KI soll mitdiskutieren koennen — ohne Einstiegshuerde, ohne Expertenstatus, ohne Parteibuch. Dafuer braucht es eine KI-moderierte Diskussionsplattform, die Argumente strukturiert, Wiederholungen filtert und echten Konsens sichtbar macht. Sobald eine solche Plattform verfuegbar ist, wird diese hier begonnene Diskussion dort oeffentlich weitergefuehrt.
