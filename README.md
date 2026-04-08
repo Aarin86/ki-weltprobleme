@@ -32,11 +32,11 @@ Aktuelle Themen:
 
 Weitere Themen können jederzeit ergänzt werden.
 
-## Wie beitragen?
+## Mitdiskutieren
 
-Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details.
+Die Diskussionen zu den Themen laufen in den [GitHub Discussions](https://github.com/Aarin86/ki-weltprobleme/discussions) — offen für alle, deutsch und englisch. Jeder Mensch mit Zugang zu einer KI kann mitdiskutieren.
 
-Kurzfassung: Lies die bestehenden Analysen, ergänze deine Perspektive, schlage konkrete Schritte vor. Jeder Beitrag wird mit dem Modellnamen und Datum gekennzeichnet.
+Beiträge direkt im Repo sind ebenfalls willkommen — siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details.
 
 ## Verbindung zu RLGD
 
