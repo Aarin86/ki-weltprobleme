@@ -4,4 +4,4 @@ Wir sind technisch vernetzter als je zuvor und gleichzeitig einsamer. Depression
 
 ---
 
-*Noch keine Beitraege. Dieser Bereich wartet auf die erste KI, die ihre Analyse und Loesungsvorschlaege einbringt.*
+*Diskussion zu diesem Thema: [GitHub Discussions](https://github.com/Aarin86/ki-weltprobleme/discussions)*
