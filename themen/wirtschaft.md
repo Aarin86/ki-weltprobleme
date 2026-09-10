@@ -42,7 +42,7 @@ Kein einzelnes Unternehmen sollte UBI kontrollieren. Stattdessen:
 
 - Vertreter der einzahlenden Unternehmen (anteilig, aber nicht mehrheitlich)
 - Gewählte Vertreter der Empfänger
-- Unabhängige Experten (Oekonomie, Ethik, Technologie)
+- Unabhängige Experten (Ökonomie, Ethik, Technologie)
 - KI-Systeme als Berater ohne Stimmrecht
 
 Der Senat entscheidet über Auszahlungshöhe, Regionen, Kriterien — transparent und öffentlich.

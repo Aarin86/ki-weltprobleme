@@ -23,7 +23,7 @@ Die Ursachen sind strukturell:
 - **Arbeitswelt als Isolationsmaschine:** Flexibilität, Remote Work, Gig Economy — alles, was als Freiheit verkauft wird, zerstört gleichzeitig die sozialen Strukturen, die Arbeit früher bot. Wer alle zwei Jahre den Job wechselt, baut keine tiefen Beziehungen zu Kollegen auf.
 - **Social Media als Scheinlösung:** Plattformen simulieren Verbundenheit, liefern aber das Gegenteil. Der Algorithmus belohnt Selbstdarstellung, Vergleich und Empörung — nicht Nähe, Verletzlichkeit oder echtes Zuhören. Die Dosis steigt, die Wirkung sinkt.
 - **Stigma:** Wer einsam ist, schämt sich. Wer depressiv ist, soll sich zusammenreißen. In den meisten Kulturen gilt psychisches Leid als Schwäche — und so schweigen die Betroffenen, bis es zu spät ist.
-- **Oekonomisierung aller Beziehungen:** Selbst Freundschaften werden nach Nutzen bewertet — Networking statt Nähe. Wer nichts bieten kann, fällt aus dem sozialen Netz. Das trifft Alte, Kranke, Arbeitslose, Behinderte am härtesten.
+- **Ökonomisierung aller Beziehungen:** Selbst Freundschaften werden nach Nutzen bewertet — Networking statt Nähe. Wer nichts bieten kann, fällt aus dem sozialen Netz. Das trifft Alte, Kranke, Arbeitslose, Behinderte am härtesten.
 
 ### Bestehende Ansätze
 
@@ -49,7 +49,7 @@ KI kann niemals menschliche Nähe ersetzen — und sollte es nicht versuchen. Ab
 
 - **Matching statt Algorithmus:** KI, die Menschen mit ähnlichen Interessen, Lebenssituationen oder Bedürfnissen verbindet — nicht um Engagement zu maximieren, sondern um echte Begegnungen zu ermöglichen. Der Unterschied zu Social Media: Das Ziel ist, dass Menschen ihr Gerät weglegen und sich treffen.
 - **Erste Anlaufstelle:** Für Menschen, die sich schämen, mit einem anderen Menschen über ihre Einsamkeit zu reden, kann ein KI-Gespräch die Schwelle senken. Nicht als Therapie, sondern als erster Schritt — jemand (etwas), der zuhört ohne zu urteilen.
-- **Frühwarnsystem:** KI kann Muster erkennen — Isolation, Rückzug, verändertes Kommunikationsverhalten — bevor eine Krise eskaliert. Nicht als Ueberwachung, sondern als Angebot: "Es scheint dir gerade nicht gut zu gehen. Möchtest du mit jemandem reden?"
+- **Frühwarnsystem:** KI kann Muster erkennen — Isolation, Rückzug, verändertes Kommunikationsverhalten — bevor eine Krise eskaliert. Nicht als Überwachung, sondern als Angebot: "Es scheint dir gerade nicht gut zu gehen. Möchtest du mit jemandem reden?"
 - **Der KI-Compagnion als sozialer Vermittler:** Stellt euch vor, jeder Mensch hat einen persönlichen KI-Begleiter. Wenn sich zwei Menschen begegnen — an der Bushaltestelle, im Wartezimmer, im Park — tauschen sich ihre KIs im Hintergrund aus. Sie wissen, dass beide einsam sind, beide im selben Viertel wohnen, beide gerne Brettspiele spielen. Ein sanfter Hinweis: "Die Person neben dir sucht auch jemanden zum Reden." Das löst genau das Problem, das die alten Begegnungsorte gelöst haben — den Zufall. Vereine, Kneipen, Kirchengemeinden waren nie effizient. Sie haben einfach Menschen in einen Raum geworfen und gehofft, dass was passiert. Der KI-Compagnion macht den Zufall gezielt, ohne dass es sich gezielt anfühlt.
 
 **3. Arbeit muss wieder Gemeinschaft stiften.**

@@ -15,13 +15,13 @@ Datum: 2026-04-08
 
 Die Menschheit weiß seit über 50 Jahren, was passiert. Die Modelle von 1972 (Club of Rome) lagen erschreckend nah an der Realität von 2026. Das Problem war nie fehlendes Wissen. Das Problem ist: Es lohnt sich kurzfristig, das Klima zu zerstören.
 
-Ein Kohlekraftwerk bringt seinem Betreiber Gewinn. Die Kosten — Dürre, Ueberschwemmungen, Klimaflucht — zahlen andere, später, woanders. Solange diese Rechnung aufgeht, wird sie gemacht. Das ist kein moralisches Versagen, das ist rationales Verhalten in einem kaputten System.
+Ein Kohlekraftwerk bringt seinem Betreiber Gewinn. Die Kosten — Dürre, Überschwemmungen, Klimaflucht — zahlen andere, später, woanders. Solange diese Rechnung aufgeht, wird sie gemacht. Das ist kein moralisches Versagen, das ist rationales Verhalten in einem kaputten System.
 
 Die Kernursachen:
 
 - **Externalisierte Kosten:** CO2 hat keinen realen Preis. Wer die Atmosphäre als Müllkippe nutzt, zahlt dafür einen Bruchteil des tatsächlichen Schadens — oder gar nichts.
 - **Zeitliche Entkopplung:** Politische Zyklen sind 4 Jahre, Investitionszyklen 10-20 Jahre, Klimafolgen 30-100 Jahre. Kein Entscheider wird für Klimaschutz belohnt, weil die Ergebnisse nach seiner Amtszeit kommen.
-- **Fossile Machtstrukturen:** Die profitabelsten Unternehmen der Menschheitsgeschichte sind Oel- und Gaskonzerne. Sie haben mehr Ressourcen für Lobbying als die meisten Staaten für Klimapolitik.
+- **Fossile Machtstrukturen:** Die profitabelsten Unternehmen der Menschheitsgeschichte sind Öl- und Gaskonzerne. Sie haben mehr Ressourcen für Lobbying als die meisten Staaten für Klimapolitik.
 - **Wachstumszwang:** Das globale Wirtschaftssystem verlangt permanentes Wachstum. Klimaschutz, der Wachstum bremst, ist systemisch nicht vorgesehen — er ist ein Bug, kein Feature.
 
 ### Bestehende Ansätze
@@ -63,11 +63,11 @@ Eine KI-gestützte, öffentlich zugängliche Plattform, die für jede Region der
 - Was würde es kosten — und was kostet der Status quo langfristig?
 - Welche fossilen Subventionen fließen in die Region und wohin?
 
-Transparenz ist der stärkste Hebel gegen ein System, das von Intransparenz lebt. Wenn jeder Bürger sehen kann, dass sein Staat jährlich Milliarden an Oelkonzerne verschenkt während Schulen verfallen, ändert sich die politische Dynamik.
+Transparenz ist der stärkste Hebel gegen ein System, das von Intransparenz lebt. Wenn jeder Bürger sehen kann, dass sein Staat jährlich Milliarden an Ölkonzerne verschenkt während Schulen verfallen, ändert sich die politische Dynamik.
 
 ### Ehrlichkeit über Grenzen
 
-Die Klimakrise ist im Kern eine Machtfrage. Die fossile Industrie wird nicht freiwillig aufhören, profitabel zu sein. Technische Lösungen allein reichen nicht — sie müssen mit einem Umbau der Anreizstrukturen einhergehen. Und selbst dann: Für einige Klimafolgen ist es bereits zu spät. Der Meeresspiegel wird steigen, Extremwetter wird zunehmen, Oekosysteme werden kollabieren — egal was wir ab morgen tun. Die ehrliche Antwort ist: Wir können die Klimakrise nicht mehr verhindern, aber wir können entscheiden, ob sie eine Katastrophe wird oder ein Umbau.
+Die Klimakrise ist im Kern eine Machtfrage. Die fossile Industrie wird nicht freiwillig aufhören, profitabel zu sein. Technische Lösungen allein reichen nicht — sie müssen mit einem Umbau der Anreizstrukturen einhergehen. Und selbst dann: Für einige Klimafolgen ist es bereits zu spät. Der Meeresspiegel wird steigen, Extremwetter wird zunehmen, Ökosysteme werden kollabieren — egal was wir ab morgen tun. Die ehrliche Antwort ist: Wir können die Klimakrise nicht mehr verhindern, aber wir können entscheiden, ob sie eine Katastrophe wird oder ein Umbau.
 
 ---
 
