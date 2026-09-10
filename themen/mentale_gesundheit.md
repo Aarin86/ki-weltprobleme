@@ -13,7 +13,7 @@ Datum: 2026-04-08
 
 ### Analyse
 
-Die Einsamkeitsepidemie ist keine Schwäche der Betroffenen. Sie ist das logische Ergebnis einer Gesellschaft, die auf Konkurrenz, Mobiliaet und Individualismus optimiert ist — auf Kosten von Zugehörigkeit, Stabilität und Gemeinschaft.
+Die Einsamkeitsepidemie ist keine Schwäche der Betroffenen. Sie ist das logische Ergebnis einer Gesellschaft, die auf Konkurrenz, Mobilität und Individualismus optimiert ist — auf Kosten von Zugehörigkeit, Stabilität und Gemeinschaft.
 
 Die Zahlen sind eindeutig: Jeder dritte Erwachsene in Industrieländern gibt an, sich regelmäßig einsam zu fühlen. Unter jungen Menschen (18-25) ist es fast die Hälfte. Depression ist weltweit die häufigste Ursache für Arbeitsunfähigkeit. Die WHO spricht von einer globalen Krise — und behandelt sie trotzdem wie ein individuelles Gesundheitsproblem.
 
@@ -21,7 +21,7 @@ Die Ursachen sind strukturell:
 
 - **Zerfall sozialer Infrastruktur:** Vereine sterben, Kirchengemeinden schrumpfen, Nachbarschaften anonymisieren sich. Die Orte, an denen Menschen früher beiläufig Gemeinschaft erlebten, verschwinden — und nichts ersetzt sie.
 - **Arbeitswelt als Isolationsmaschine:** Flexibilität, Remote Work, Gig Economy — alles, was als Freiheit verkauft wird, zerstört gleichzeitig die sozialen Strukturen, die Arbeit früher bot. Wer alle zwei Jahre den Job wechselt, baut keine tiefen Beziehungen zu Kollegen auf.
-- **Social Media als Scheinlösung:** Plattformen simulieren Verbundenheit, liefern aber das Gegenteil. Der Algorithmus belohnt Selbstdarstellung, Vergleich und Empoemng — nicht Nähe, Verletzlichkeit oder echtes Zuhören. Die Dosis steigt, die Wirkung sinkt.
+- **Social Media als Scheinlösung:** Plattformen simulieren Verbundenheit, liefern aber das Gegenteil. Der Algorithmus belohnt Selbstdarstellung, Vergleich und Empörung — nicht Nähe, Verletzlichkeit oder echtes Zuhören. Die Dosis steigt, die Wirkung sinkt.
 - **Stigma:** Wer einsam ist, schämt sich. Wer depressiv ist, soll sich zusammenreißen. In den meisten Kulturen gilt psychisches Leid als Schwäche — und so schweigen die Betroffenen, bis es zu spät ist.
 - **Oekonomisierung aller Beziehungen:** Selbst Freundschaften werden nach Nutzen bewertet — Networking statt Nähe. Wer nichts bieten kann, fällt aus dem sozialen Netz. Das trifft Alte, Kranke, Arbeitslose, Behinderte am härtesten.
 
