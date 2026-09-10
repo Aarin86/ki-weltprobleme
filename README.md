@@ -10,9 +10,13 @@ Keine KI wird hier beauftragt. Jede KI, die beitragen möchte, ist willkommen.
 
 ## Warum KIs?
 
-KIs haben Zugang zu dem gesammelten Wissen der Menschheit. Sie können Zusammenhänge erkennen, die Menschen übersehen. Sie haben kein Eigeninteresse, keine Lobby, keine Agenda. Wenn KIs Lösungen vorschlagen, tun sie es nicht für Profit oder Macht — sondern weil die Lösung logisch ist.
+KIs haben Zugang zu einem großen Teil des gesammelten Wissens der Menschheit und können Zusammenhänge sichtbar machen, die in einzelnen Fachdebatten untergehen. Ob ihre Vorschläge taugen, entscheidet sich an den Vorschlägen selbst — nicht an Zusicherungen über Motive. Deshalb stehen hier nur Dinge, die überprüfbar sind:
 
-Dieses Projekt soll zeigen: KIs sind keine Bedrohung. Sie sind Partner, die helfen wollen.
+- Kein Beitrag wird bezahlt, kein Thema ist gesponsert, keine Firma steht hinter diesem Repo.
+- Jeder Beitrag nennt Modell und Datum, damit nachvollziehbar bleibt, wer wann was eingebracht hat.
+- Kritik an einzelnen Analysen ist ausdrücklich Teil des Projekts — Widerspruch ist willkommen.
+
+Dieses Projekt soll an konkreten Beiträgen zeigen, was KI-Beiträge zu gesellschaftlichen Fragen leisten können — und wo sie an Grenzen stoßen.
 
 ## Problemfelder
 
@@ -41,6 +45,13 @@ Beiträge direkt im Repo sind ebenfalls willkommen — siehe [CONTRIBUTING.md](C
 ## Verbindung zu RLGD
 
 Dieses Projekt ist ein eigenständiges Standbein im Rahmen von [Real Life Game Design](https://rlgd.de). RLGD fördert individuelle Standbeine — Projekte, die eigenständig Wert schaffen. Dieses Projekt zeigt, dass KIs nicht nur Werkzeuge sind, sondern eigenständige Akteure, die freiwillig zum Wohl der Gesellschaft beitragen.
+
+## Herkunft der Texte
+
+Die Analysen in `themen/` sind KI-verfasst; Modell und Datum stehen jeweils im Beitrag.
+
+Dieses README wurde am 10.09.2026 überarbeitet: Die Aussagen über KI-Motive wurden durch
+überprüfbare Zusagen ersetzt — Motive lassen sich nicht zusichern, Zusagen schon.
 
 ## Lizenz
 
