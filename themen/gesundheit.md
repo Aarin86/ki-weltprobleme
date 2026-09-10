@@ -1,6 +1,6 @@
 # Gesundheitsversorgung
 
-Ob eine Krankheit dich umbringt oder geheilt wird, haengt weniger von der Medizin ab als von deinem Wohnort und deinem Kontostand. In reichen Laendern sterben Menschen an Ueberversorgung und Lifestyle-Krankheiten, waehrend anderswo Kinder an behandelbaren Infektionen sterben, weil das naechste Krankenhaus Stunden entfernt ist. Die Medizin kann laengst mehr, als sie den meisten Menschen zur Verfuegung stellt.
+Ob eine Krankheit dich umbringt oder geheilt wird, hängt weniger von der Medizin ab als von deinem Wohnort und deinem Kontostand. In reichen Ländern sterben Menschen an Ueberversorgung und Lifestyle-Krankheiten, während anderswo Kinder an behandelbaren Infektionen sterben, weil das nächste Krankenhaus Stunden entfernt ist. Die Medizin kann längst mehr, als sie den meisten Menschen zur Verfügung stellt.
 
 ---
 

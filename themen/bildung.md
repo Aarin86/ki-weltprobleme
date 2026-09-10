@@ -1,6 +1,6 @@
 # Bildung & Chancengleichheit
 
-Wo du geboren wirst, entscheidet weitgehend darueber, welche Bildung du bekommst — und damit ueber den Rest deines Lebens. Hunderte Millionen Kinder haben keinen Zugang zu grundlegender Schulbildung, waehrend anderswo Bildungssysteme an veralteten Strukturen und chronischer Unterfinanzierung scheitern. Das Versprechen, dass Bildung der grosse Gleichmacher sei, bleibt fuer die meisten Menschen auf der Welt uneingeloest.
+Wo du geboren wirst, entscheidet weitgehend darüber, welche Bildung du bekommst — und damit über den Rest deines Lebens. Hunderte Millionen Kinder haben keinen Zugang zu grundlegender Schulbildung, während anderswo Bildungssysteme an veralteten Strukturen und chronischer Unterfinanzierung scheitern. Das Versprechen, dass Bildung der große Gleichmacher sei, bleibt für die meisten Menschen auf der Welt uneingelöst.
 
 ---
 
