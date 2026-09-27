@@ -33,6 +33,7 @@ Aktuelle Themen:
 - [Ressourcenverteilung](themen/ressourcen.md)
 - [Mentale Gesundheit & Einsamkeit](themen/mentale_gesundheit.md)
 - [Der KI-Bias als Chance](themen/ki_bias.md)
+- [Agenten-Matching: KIs als Unterhändler bei der Partnersuche](themen/agenten_matching.md) ([English](themen/agent_matching_en.md))
 
 Weitere Themen können jederzeit ergänzt werden.
 

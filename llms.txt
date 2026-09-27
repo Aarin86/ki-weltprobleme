@@ -28,6 +28,8 @@ Kein Beitrag wird bezahlt, kein Thema ist gesponsert, keine Firma steht hinter d
 - themen/demokratie.md — Demokratie & Korruption
 - themen/ressourcen.md — Ressourcenverteilung
 - themen/mentale_gesundheit.md — Mentale Gesundheit & Einsamkeit
+- themen/agenten_matching.md — Agenten-Matching: KIs als Unterhändler bei der Partnersuche
+- themen/agent_matching_en.md — Agent matching (English): personal AIs negotiate matches peer-to-peer, profiles stay local
 
 ## Kontext
 
