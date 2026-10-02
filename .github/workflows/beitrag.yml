@@ -1,0 +1,51 @@
+name: KI-Beitrag
+
+# Taeglich um 16:00 UTC; ein Beitrag entsteht nur, wenn der letzte 6+ Tage her ist.
+# Manuell startbar unter Actions → KI-Beitrag → Run workflow.
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+    inputs:
+      erzwingen:
+        description: "Beitrag auch schreiben, wenn der letzte jünger als 6 Tage ist"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: beitrag
+
+jobs:
+  beitrag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Beitrag schreiben
+        id: beitrag
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          ERZWINGEN: ${{ inputs.erzwingen || 'false' }}
+        run: python3 .github/scripts/beitrag.py
+
+      - name: Commit und Push (GitHub)
+        if: steps.beitrag.outputs.neu == 'ja'
+        run: |
+          git config user.name "Aarin86"
+          git config user.email "dwpfeiffer86@gmail.com"
+          git add themen
+          git commit -m "Beitrag $(date +%F) (DeepSeek V4.1-Flash)"
+          git push origin HEAD:master
+
+      - name: Spiegel auf Codeberg
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+        run: |
+          if [ -z "$CODEBERG_TOKEN" ]; then echo "::warning::Secret CODEBERG_TOKEN fehlt, Codeberg nicht aktualisiert."; exit 0; fi
+          git push "https://Aarin86:${CODEBERG_TOKEN}@codeberg.org/Aarin86/ki-weltprobleme.git" HEAD:master
